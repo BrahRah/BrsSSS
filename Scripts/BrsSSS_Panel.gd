@@ -6,6 +6,8 @@ class_name BrsSSS_Panel
 
 @export var editor_plugin : EditorPlugin
 
+var ConfigManager = BrsConfigManager.new()
+
 # -----------------------------------------------------------
 # UI node declarations
 # -----------------------------------------------------------
